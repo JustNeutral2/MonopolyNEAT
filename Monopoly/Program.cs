@@ -11,7 +11,7 @@ namespace Monopoly
             Analytics a = new Analytics();
             Analytics.instance = a;
 
-            string path = "C:\\Users\\Brad\\Desktop\\monopoly_population.txt";
+            string path = "C:\\Users\\4034989\\Desktop\\monopoly_population.txt";
 
             RNG.Initialise();
 
